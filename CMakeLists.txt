@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 3.10)
 PROJECT(ccl)
 SET(VERSION 3.3.3)
 
